@@ -14,3 +14,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Configuração do Ambiente
 
+1. Instale o Laravel:
+2. Instale o Composer:
+3. Instale o Git:
+4. Clone esse repositório: 

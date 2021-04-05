@@ -1,6 +1,6 @@
 ## Sobre
 
-O projeto **catálogo-digital** é um sistema criado com o intuito de colocar em pratica e validar todos os conceitos estudados durante o processo de estudo do laravel. 
+O projeto **catálogo-digital** é um sistema criado com o intuito de colocar em pratica e validar todos os conceitos durante o processo de estudo do laravel. 
 
 ## Tecnologias utilizadas
 

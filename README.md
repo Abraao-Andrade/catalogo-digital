@@ -19,6 +19,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 2. Instale o Composer:
 3. Instale o Git:
 4. Clone esse repositório: 
+5. Execute o comando: composer install
+6. Execute o comando: php artisan key:generate
+7. Altere o arquivo .env com as informações do banco de dados local.
+8. Execute o comando: php artisan migrate.
 
 ## Credenciais 
 

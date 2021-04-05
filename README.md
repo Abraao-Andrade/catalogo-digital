@@ -11,6 +11,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - JavaScript
 - Htlm
 - CSS
+- Mysql
 
 ## Configuração do Ambiente
 
